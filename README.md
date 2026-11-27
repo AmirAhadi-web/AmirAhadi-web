@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmirAhadi-web](https://github.com/AmirAhadi-web)
 
-- 💬 Ask me about **HTML5,CSS3,Python,JavaScript**
+- 💬 Ask me about **HTML5,CSS3,Python,JavaScript,React,Next.js**
 
 - 📫 How to reach me **amirahadiweb@gmail.com**
 
